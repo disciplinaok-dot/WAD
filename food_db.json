@@ -1,0 +1,198 @@
+[
+  {
+    "n": "Pechuga de pollo",
+    "cal": 120,
+    "pro": 23,
+    "carb": 0,
+    "fat": 2
+  },
+  {
+    "n": "Muslo de pollo sin piel",
+    "cal": 150,
+    "pro": 20,
+    "carb": 0,
+    "fat": 8
+  },
+  {
+    "n": "Carne picada magra",
+    "cal": 170,
+    "pro": 21,
+    "carb": 0,
+    "fat": 9
+  },
+  {
+    "n": "Nalga",
+    "cal": 145,
+    "pro": 21,
+    "carb": 0,
+    "fat": 6
+  },
+  {
+    "n": "Bola de lomo",
+    "cal": 140,
+    "pro": 22,
+    "carb": 0,
+    "fat": 5
+  },
+  {
+    "n": "Lomo",
+    "cal": 130,
+    "pro": 22,
+    "carb": 0,
+    "fat": 4
+  },
+  {
+    "n": "Cerdo magro",
+    "cal": 160,
+    "pro": 21,
+    "carb": 0,
+    "fat": 8
+  },
+  {
+    "n": "Atún fresco",
+    "cal": 130,
+    "pro": 29,
+    "carb": 0,
+    "fat": 1
+  },
+  {
+    "n": "Merluza",
+    "cal": 85,
+    "pro": 18,
+    "carb": 0,
+    "fat": 1
+  },
+  {
+    "n": "Salmón",
+    "cal": 208,
+    "pro": 20,
+    "carb": 0,
+    "fat": 13
+  },
+  {
+    "n": "Huevo entero (100g)",
+    "cal": 143,
+    "pro": 13,
+    "carb": 1,
+    "fat": 10
+  },
+  {
+    "n": "Claras de huevo",
+    "cal": 50,
+    "pro": 11,
+    "carb": 1,
+    "fat": 0
+  },
+  {
+    "n": "Tofu firme",
+    "cal": 140,
+    "pro": 15,
+    "carb": 3,
+    "fat": 8
+  },
+  {
+    "n": "Soja texturizada seca",
+    "cal": 330,
+    "pro": 50,
+    "carb": 30,
+    "fat": 1
+  },
+  {
+    "n": "Lentejas secas",
+    "cal": 350,
+    "pro": 25,
+    "carb": 60,
+    "fat": 1
+  },
+  {
+    "n": "Garbanzos secos",
+    "cal": 364,
+    "pro": 19,
+    "carb": 61,
+    "fat": 6
+  },
+  {
+    "n": "Porotos negros secos",
+    "cal": 340,
+    "pro": 21,
+    "carb": 62,
+    "fat": 1
+  },
+  {
+    "n": "Lechuga",
+    "cal": 15,
+    "pro": 1,
+    "carb": 3,
+    "fat": 0
+  },
+  {
+    "n": "Espinaca",
+    "cal": 23,
+    "pro": 3,
+    "carb": 4,
+    "fat": 0
+  },
+  {
+    "n": "Tomate",
+    "cal": 18,
+    "pro": 1,
+    "carb": 4,
+    "fat": 0
+  },
+  {
+    "n": "Cebolla",
+    "cal": 40,
+    "pro": 1,
+    "carb": 9,
+    "fat": 0
+  },
+  {
+    "n": "Brócoli",
+    "cal": 34,
+    "pro": 3,
+    "carb": 7,
+    "fat": 0
+  },
+  {
+    "n": "Zanahoria",
+    "cal": 41,
+    "pro": 1,
+    "carb": 10,
+    "fat": 0
+  },
+  {
+    "n": "Papa",
+    "cal": 77,
+    "pro": 2,
+    "carb": 17,
+    "fat": 0
+  },
+  {
+    "n": "Batata",
+    "cal": 86,
+    "pro": 2,
+    "carb": 20,
+    "fat": 0
+  },
+  {
+    "n": "Boniato",
+    "cal": 90,
+    "pro": 2,
+    "carb": 21,
+    "fat": 0
+  },
+  {
+    "n": "Calabaza",
+    "cal": 26,
+    "pro": 1,
+    "carb": 7,
+    "fat": 0
+  },
+  {
+    "n": "Choclo",
+    "cal": 96,
+    "pro": 3,
+    "carb": 21,
+    "fat": 1
+  }
+]
