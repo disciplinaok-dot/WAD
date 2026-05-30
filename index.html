@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0062)file:///C:/Users/alper/Downloads/index_original_sin_tocar.html -->
+<!-- saved from url=(0045)file:///C:/Users/alper/Downloads/index_2.html -->
 <html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -5081,12 +5081,18 @@ async function renderAdminList(){
 
 async function selectAthlete(id){
   if(!id)return;
+  // Limpiar caché del atleta anterior
+  _cache.clear();
+  _inflight.clear();
   S.athleteId=id;
+  S.waterMl=0;S.burnedKcal=0;S.stepsKcal=0;S.weeks=[];S.missedDayIds=new Set();
   const a=S.athletes.find(x=>x.id===id);
   S.athleteName=a?.full_name||'';
   g('hdr-name').textContent=a?(a.full_name||a.email||''):'';
   const sbName=g('sb-ath-name');
   if(sbName)sbName.textContent=a?(a.full_name||a.email||''):'—';
+  // Limpiar UI anterior
+  g('days-scroll').innerHTML='<div class="empty" style="min-width:200px;padding:24px 14px"><p>Cargando...</p></div>';
   await loadWeeks();await loadFeedProg();await loadTodayBF();await loadRecords();
   await loadAthleteWeight();
   if(g('pg-roadmap').classList.contains('on'))await loadRoadmap();
